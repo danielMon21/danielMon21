@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hectoer Daniel Montiel Rebolledo</h1>
+<h1 align="center">Hi 👋, I'm Hector Daniel Montiel Rebolledo</h1>
 <h3 align="center">soy ingeniero en sistemas comnputacionales</h3>
 
 - 📫 How to reach me **danimscanner@gmail.com**
